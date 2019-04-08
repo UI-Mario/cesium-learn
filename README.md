@@ -7,4 +7,4 @@ Realize movement within the scene, collision detection, special effects, positio
 
 shift + up arrow or down arrow to move
 
-![Image text](https://github.com/UI-Mario/cesium-learn/blob/master/img/Screenshot%20from%202019-04-09%2000-21-15.png)
+![Image text](https://github.com/UI-Mario/cesium-learn/blob/master/img/Screenshot%20from%202019-04-09%2000-21-05.png)
